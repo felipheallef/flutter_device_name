@@ -1,3 +1,7 @@
+## 0.0.3
+
+* Update Gradle and Kotlin versions, improve gradlew scripts
+
 ## 0.0.2
 
 * Add `namespace` to `build.gradle` to fix Android build.
